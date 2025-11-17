@@ -1,0 +1,13 @@
+name: omniroute_analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - rosbags
+  - python-dotenv
+  - pip:
+      - spikeinterface[full]==0.102.0
