@@ -202,7 +202,7 @@ This will regenerate all paper figures and tables.
 Licensing
 ---------
 
-Analysis code in this repository is released under the MIT License (MIT) (see LICENSE).
+Analysis code in this repository is released under the MIT License (see LICENSE).
     
 
 ---
